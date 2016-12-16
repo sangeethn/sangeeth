@@ -1,3 +1,6 @@
 Welcome to Git Hub
 I am Sangeeth
+<<<<<<< HEAD
 I am working as Assistant Professor
+=======
+>>>>>>> e5cb69ab03708fae439186e31279f06bbd919c95
